@@ -1,0 +1,12 @@
+.git/
+node_modules/
+.next/
+out/
+outputs/
+work/
+.env*
+.vercel/
+*.pem
+*.key
+*.tsbuildinfo
+.openai/
