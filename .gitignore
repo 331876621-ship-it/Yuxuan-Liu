@@ -1,0 +1,13 @@
+node_modules/
+.next/
+*.tsbuildinfo
+work/
+.env*
+out/
+outputs/
+.openai/*.tar
+
+.vercel/
+*.pem
+*.key
+
